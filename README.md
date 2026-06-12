@@ -16,8 +16,6 @@ A clean, responsive, and modern landing page built for the Business Information 
 
 ## 📦 How to Run
 
-Since this is a lightweight static project, you don't need any complex development installation or package scripts:
-
 1. Clone or download this repository.
 2. Open the `index.html` file directly in any modern web browser (Chrome, Edge, Firefox, Safari).
 
