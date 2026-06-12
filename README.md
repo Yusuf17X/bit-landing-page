@@ -13,7 +13,6 @@ A clean, responsive, and modern landing page built for the Business Information 
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3 (Custom properties/variables, Grid, and Flexbox layout models)
-* **Icons:** FontAwesome v5.15.4
 
 ## 📦 How to Run
 
